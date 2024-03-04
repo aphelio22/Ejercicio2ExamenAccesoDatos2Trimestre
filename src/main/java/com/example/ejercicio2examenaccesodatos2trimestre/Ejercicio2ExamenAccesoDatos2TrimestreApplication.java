@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Ejercicio2ExamenAccesoDatos2TrimestreApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Ejercicio2ExamenAccesoDatos2TrimestreApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Ejercicio2ExamenAccesoDatos2TrimestreApplication.class, args);
+    }
 
 }
